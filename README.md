@@ -62,7 +62,7 @@ To clean and prepare the Titanic dataset by handling missing values, encoding ca
 
 ```bash
 # Step 1: Clone this repository
-git clone https://github.com/your-username/task-1-titanic-cleaning.git
+git clone https://github.com/Roxtop07/task-1-titanic-cleaning.git
 
 # Step 2: Open the folder
 cd task-1-titanic-cleaning
