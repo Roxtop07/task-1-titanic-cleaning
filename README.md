@@ -83,6 +83,22 @@ This task mirrors real-world data preprocessing tasks performed by data analysts
 
 ## 🚀 Submission
 
-Final output was uploaded to GitHub and submitted through the official internship portal.
+## 🖼️ Screenshots of Outputs
+
+### 1. Missing Values Before Cleaning
+![Nulls Before](screenshots/nulls-before.png)
+
+### 2. Missing Values After Cleaning
+![Nulls After](screenshots/nulls-after.png)
+
+### 3. Boxplot of Age
+![Boxplot Age](screenshots/boxplot-age.png)
+
+### 4. One-Hot Encoding Result
+![One-Hot Encoding](screenshots/one-hot.png)
+
+### 5. Final Cleaned Dataset Shape
+![Cleaned Shape](screenshots/cleaned-shape.png)
+
 
 ---
