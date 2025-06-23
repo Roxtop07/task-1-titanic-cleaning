@@ -86,5 +86,3 @@ This task mirrors real-world data preprocessing tasks performed by data analysts
 Final output was uploaded to GitHub and submitted through the official internship portal.
 
 ---
-
-**Impress recruiters by mastering the foundations. Clean data builds smart models.** ✨
